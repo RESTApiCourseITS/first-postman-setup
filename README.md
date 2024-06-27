@@ -1,7 +1,7 @@
 # Repository del corso ITS sulle REST API
 ## Docente Gabriele Cavigiolo
 
-
+-guido panzieri 
 
 + Andrea Michelangelo
 + Lorenzo Parisi
